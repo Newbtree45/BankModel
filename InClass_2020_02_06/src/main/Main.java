@@ -13,7 +13,7 @@ public class Main {
 		Online rockOnline = new Online();
 		BrickAndMortar rockBrickAndMortar = new BrickAndMortar();
 		CafeBranch rockCafeBranch = new CafeBranch();
-
+		
 	}
 
 }
